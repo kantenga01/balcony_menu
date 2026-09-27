@@ -109,7 +109,7 @@ export const categories: MenuCategory[] = [
     slug: "whiskies-cognacs",
     path: "/whiskies-cognacs",
     navLabel: "Whiskies, Cognacs & Tequila",
-    title: "Whiskies & Cognacs",
+    title: "Whiskies, Cognacs & Tequila",
     kicker: "Caractère & grands âges",
     description:
       "Des spiritueux profonds, servis pour prolonger la soirée.",
@@ -128,7 +128,7 @@ export const categories: MenuCategory[] = [
       { name: "REMY MARTIN VSOP", price: 150 },
       { name: "DON JULIO Reposado", price: 190 },
       { name: "Tequila Azul", price: 600 },
-      { name: "Don julio 1942", price: 550 },
+      { name: "Don julio 1942", price: 650 },
       { name: "Tequila Patron", price: 100 },
       { name: "Tequila Blanco", price: 80 },
       { name: "Tequila Gold", price: 80 },
